@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|c:\\users\\karolina\\desktop\\agh\\semestr i\\programowanie w c#\\projekt_ui\\projekt_ui\\searchpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|solutionrelative:projekt_ui\\searchpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_ui\\deletepartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|solutionrelative:projekt_ui\\deletepartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|solutionrelative:projekt_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|c:\\users\\karolina\\desktop\\agh\\semestr i\\programowanie w c#\\projekt_ui\\projekt_ui\\displaypartsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|solutionrelative:projekt_ui\\displaypartsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_ui\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|solutionrelative:projekt_ui\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA3A9E9E-D6A8-4B6E-9E25-8D86C78E01EC}|projekt_UI\\projekt_UI.csproj|solutionrelative:projekt_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchPartForm.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\SearchPartForm.cs",
+              "RelativeDocumentMoniker": "projekt_UI\\SearchPartForm.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\SearchPartForm.cs",
+              "RelativeToolTip": "projekt_UI\\SearchPartForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:29:51.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeletePartForm.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\DeletePartForm.cs",
+              "RelativeDocumentMoniker": "projekt_UI\\DeletePartForm.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\DeletePartForm.cs",
+              "RelativeToolTip": "projekt_UI\\DeletePartForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:04:12.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\Form1.cs",
+              "RelativeDocumentMoniker": "projekt_UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\Form1.cs",
+              "RelativeToolTip": "projekt_UI\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:30:17.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayPartsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\DisplayPartsForm.cs",
+              "RelativeDocumentMoniker": "projekt_UI\\DisplayPartsForm.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\DisplayPartsForm.cs",
+              "RelativeToolTip": "projekt_UI\\DisplayPartsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:04:30.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPartForm.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\AddPartForm.cs",
+              "RelativeDocumentMoniker": "projekt_UI\\AddPartForm.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\AddPartForm.cs",
+              "RelativeToolTip": "projekt_UI\\AddPartForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:03:34.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\Form1.cs",
+              "RelativeDocumentMoniker": "projekt_UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\AGH\\Semestr I\\programowanie w C#\\projekt_UI\\projekt_UI\\Form1.cs [Projekt]",
+              "RelativeToolTip": "projekt_UI\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:27:37.911Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
